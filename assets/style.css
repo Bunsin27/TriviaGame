@@ -1,0 +1,26 @@
+body {
+    background-image: url("parthen.jpg");
+
+}
+
+
+.main {
+    background-color: #0618027a;
+    padding: 10%;
+    color: #ebebeb;
+}
+
+.start {
+    background-color: black;
+}
+
+.answers p:hover {
+    color: black;
+    border: 2px;
+    border-style: solid;
+}
+
+nav.navbar-default {
+    background-image: url("electricty.gif");
+
+}
